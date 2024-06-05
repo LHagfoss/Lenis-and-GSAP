@@ -1,3 +1,7 @@
+window.onload = function balls() {
+    scrollTo(0, 0);
+};
+
 document.addEventListener("DOMContentLoaded", function () {
     const lenis = new Lenis();
 
